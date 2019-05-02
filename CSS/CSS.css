@@ -1,0 +1,185 @@
+﻿
+@import url('https://fonts.googleapis.com/css?family=Neucha');
+@import url('https://fonts.googleapis.com/css?family=Kurale');  
+    #index{ 
+background: url(fon.jpg);
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-color: blueviolet;
+background-size: 100%;
+position: absolute;
+margin-left: -50vw;
+left: 50%;
+height: 0.5vw;
+cursor: url('../CSS/20.cur'), default;}
+    #cartinka{ 
+height: 40px;
+border-radius: 100px; 
+border: 3px solid rgb(87, 90, 94);}
+    #cartinka:hover{
+height: 40px;
+border-radius: 100px; 
+border: 3px solid rgb(87, 90, 94); 
+box-shadow: 0 0 30px rgb(52, 55, 63);}
+    #knopka_poisk{
+height: 40px;
+border-radius: 100px; 
+border: 3px solid rgb(52, 55, 63);} 
+   #block1 {
+float: left;
+display: block;
+width: 300px;
+margin: 2px;}
+    h1{
+float: right;
+display: block;
+width: 400px;
+margin: 5px;
+font-family: Neucha;
+font-size: 40px;
+display: table;
+margin: 0 auto;
+background: linear-gradient(330deg, #e05252 0%, #99e052 25%, #52e0e0 50%, #9952e0 75%, #e05252 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+line-height: 45px;}
+    #poisk{ 
+border: 3px solid rgb(52, 55, 63);
+font-family: Neucha;
+font-size: 25px;
+color: rgb(87, 90, 94);}
+    #navbar ul{
+display: none;
+background-color: #f90;
+position: absolute;
+top: 100%;}
+    #navbar li:hover ul { display: block; }
+    #navbar, #navbar ul{
+margin: 0;
+padding: 0;
+list-style-type: none;}
+    #navbar {
+height: 50px;
+background-color: #666;
+padding-left: 38px;
+min-width: 490px;
+font-family:  Neucha;
+font-size: 30px;
+background-clip:padding-box}
+    #navbar li {
+float: left;
+position: relative;
+height: 100%;}
+    #navbar li a {
+display: block;
+padding: 6px;
+width: 100px;
+color: #fff;
+text-decoration: none;
+text-align: center;}
+    #navbar ul li { float: none; }
+    #navbar li:hover { background-color: #f90; }
+    #navbar ul li:hover { background-color: #666; }
+    .text_in_index::first-letter { color: rgb(58, 116, 214);
+font-size: 80px;}
+    body::selection { color: green; background: orange;}
+    .text_in_index{font-family:Kurale;
+color: rgb(23, 39, 23);
+font-size: 30px;
+background:rgba(255,255,255, 0.7);
+margin: 10%}
+text_in_index2{
+    font-family: Pacifico;
+    color: grey;
+    font-size: 50px;
+}
+.teleshia{
+background-color: rgb(49, 49, 49);
+font-size: 30px;
+font-family: Neucha;
+color: white;
+width: 100vw;
+position: relative;
+margin-left: -50vw;
+left: 50%;
+height: 200px;
+position: absolute;}
+    #naw:after{
+content: "\269D";
+color: rgb(58, 116, 214);}
+    #naw:before{
+content: "\269D";}
+    #naw::first-letter { color: rgb(58, 116, 214);}
+    #god{
+font-size: 40px;}
+    .Nachalo{
+font-family: Pacifico;
+color: grey;
+font-size: 50px;  
+text-decoration: none; 
+float: center;}
+    .Nachalo:hover{
+height: 50px;
+border-radius: 100px; 
+border: 3px solid rgb(87, 90, 94); 
+box-shadow: 0 0 30px rgb(52, 55, 63);}
+    .Nazva{
+float: left;
+display: block;
+width: 400px;
+margin: 5px;
+font-family: Neucha;
+font-size: 40px;
+display: table;
+margin: 0 auto;
+background: linear-gradient(330deg, #f55555 0%, #dd71f3 25%, #856df0 50%, #6ef1e0 75%, #61f084 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+line-height: 45px;
+border: 5px #57b8e656 solid;} 
+    .aaa{
+ color:   #2493c7c5;}
+    #page_3{
+background-image: url('tokio.gif');
+background-attachment:fixed;
+background-repeat: no-repeat;
+background-size: 100%;}
+    #page_4{
+background-image: url('fon.jpg');
+background-attachment:fixed;
+background-repeat: no-repeat;
+background-size: 100%;
+cursor: url('../CSS/20.cur'), default;}
+    #n1{
+border: 4px solid rgb(87, 90, 94);
+font-size: 45px;}
+    #n2{
+text-decoration-line: none;
+color: #e05252;
+    }
+    #n1:hover{
+font-size:48px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+
+
+
+
+
+
+
+  
